@@ -1,0 +1,60 @@
+X1,X2,X3,X1,X2
+IPG,Advertising,Consumer Discretionary,1,1
+"ANF, COH, NKE, TIF, VFC","Apparel, Accessories & Luxury Goods",Consumer Discretionary,2,1
+"F, HOG, JCI",Auto Parts & Equipment,Consumer Discretionary,3,1
+"CBS, CMCSA, DIS, DTV, TWC, TWX",Broadcasting & Cable TV,Consumer Discretionary,4,1
+"IGT, WYNN",Casinos & Gaming,Consumer Discretionary,5,1
+"JCP, JWN, KSS, M",Department Stores,Consumer Discretionary,6,1
+"APOL, DV",Educational Services,Consumer Discretionary,7,1
+"DHI, KBH, LEN, LOW, PHM",Homebuilding,Consumer Discretionary,8,1
+"EXPE, HOT, MAR, WYN","Hotels, Resorts & Cruise Lines",Consumer Discretionary,9,1
+"BDK, NWL, SNA, SWK, WHR",Household Appliances,Consumer Discretionary,10,1
+AMZN,Internet Retail,Consumer Discretionary,11,1
+"HAS, MAT, ODP, RRD",Printing Services,Consumer Discretionary,12,1
+"GCI, MDP, NYT",Publishing,Consumer Discretionary,13,1
+"DRI, SBUX, YUM",Restaurants,Consumer Discretionary,14,1
+"AN, AZO, BBBY, GPC, GPS, HAR, LTD, SPLS",Specialty Stores,Consumer Discretionary,15,1
+"FPL, WPO",NA,Consumer Discretionary,NA,1
+ADM,Agricultural Products,Consumer Staples,16,2
+"CVS, SVU, SWY, WAG",Food & Drug Stores,Consumer Staples,17,2
+"AVP, CL, KMB",Household Products,Consumer Staples,18,2
+"TGT, FDO, WMT",Hypermarkets & Super Centers,Consumer Staples,19,2
+"CAG, CCE, CPB, DF, GIS, HNZ, HRL, HSY, K, KFT, KO, MKC, PBG, PEP, SJM, SLE, STZ, TAP, TSN",Packaged Food,Consumer Staples,20,2
+"EL, PG",Personal Products,Consumer Staples,21,2
+"MO, RAI",Tobacco,Consumer Staples,22,2
+"BTU, CNX, MEE",Coal Operations,Energy,23,3
+"APA, CHK, COG, COP, CTX, CVX, DNR, DO, DVN, EOG, EP, EQT, ESV, FO, HES, MRO, MUR, NBL, OXY, PXD, RRC, SE, SWN, TSO, VLO, WMB, XTO",Oil & Gas Exploration & Production,Energy,24,3
+"BHI, BJS, CAM, FTI, NBR, NOV, RDC, SII, SLB",Oil & Gas Equipment & Services,Energy,25,3
+"BAC, BBT, BK, C, CIT, CMA, COF, FHN, FITB, HCBK, HRB, IVZ, KEY, LM, MI, MTB, NTRS, PNC, SLM, STI, USB, WFC",Banks,Financials,26,4
+"CME, EFX, ICE, NYX, PFG, PRU, RF, STT, TROW, UNM, VTR",Diversified Financial Services,Financials,27,4
+"ETFC, FII, JNS, LUK, MS, SCHW",Investment Banking & Brokerage,Financials,28,4
+"AFL, AIG, AIZ, CB, CINF, GNW, HIG, L, LNC, MBI, MET, MMC, PGR, TMK, TRV, XL",Property & Casualty Insurance,Financials,29,4
+"AMT, AVB, BXP, CBG, HCN, HCP, HST, IRM, KIM, PBCT, PCL, PSA, SPG, VNO, WY",REITs,Financials,30,4
+AOC,NA,Financials,NA,4
+"AMGN, BIIB, CELG, FRX, GENZ, GILD, HSP, KG, LIFE, LLY, MRK, MYL, WPI",Pharmaceuticals,Health Care,31,5
+"ABC, AET, BMY, CAH, CI, DGX, DVA, ESRX, HUM, MCK, MHS, PDCO, THC, UNH, WAT, WLP, XRAY",Health Care Supplies,Health Care,32,5
+"ABT, BAX, BCR, BDX, ISRG, JNJ, MDT, MIL, PKI, PLL, STJ, SYK, TMO, VAR",Health Care Equipment & Services,Health Care,33,5
+"BA, RTN",Aerospace & Defense,Industrials,34,6
+"CHRW, EXPD, FDX, UPS",Air Freight & Logistics,Industrials,35,6
+LUV,Airlines,Industrials,36,6
+"DE, FAST, GLW, MAS, MTW, PCAR",Construction & Farm Machinery & Heavy Trucks,Industrials,37,6
+"COL, EMR, ETN, GE, HON, IR, JEC, LEG, LLL, MMM, PH, ROK, RSG, TXT, TYC",Industrial Conglomerates,Industrials,38,6
+"CMI, DHR, DOV, FLS, GWW, ITT, ITW",Industrial Machinery,Industrials,39,6
+"CSX, NSC, UNP",Railroads,Industrials,40,6
+"ACS, CTAS, FLR, RHI",NA,Industrials,NA,6
+"CBE, MOLX, JBL, LXK",Office Electronics,Information Technology,41,7
+"ADBE, ADSK, BMC, CA, ERTS, MFE, MSFT, NOVL, ORCL, TDC",Application Software,Information Technology,42,7
+"CIEN, HRS, JDSU, JNPR, MOT",Communications Equipment,Information Technology,43,7
+"AAPL, AMD, HPQ, JAVA, QLGC, SNDK",Computer Storage & Peripherals,Information Technology,44,7
+"ADP, AKAM, CRM, CSC, CTSH, CTXS, CVG, EBAY, FIS, GOOG, IBM, INTU, MA, MWW, PAYX, TSS, XRX, YHOO, DNB",Information Services,Information Technology,45,7
+"ALTR, AMAT, BRCM, INTC, KLAC, LLTC, LSI, MCHP, MU, NSM, NVDA, NVLS, QCOM, TXN, XLNX",Semiconductors,Information Technology,46,7
+"ATI, BLL, FCX, NEM, OI",Metal & Glass Containers,Materials,47,8
+"DD, DOW, ECL, EMN, IFF, MON, PPG, PX, SHW, SIAL",Specialty Chemicals,Materials,48,8
+"BMS, MWV, PTV",Containers & Packaging,Materials,49,8
+"AKS, TIE, X",Iron & Steel,Materials,50,8
+"AVY, IP, SEE",Paper Packaging,Materials,51,8
+VMC,NA,Materials,NA,8
+"CTL, EQ, FTR, Q, S, T, VZ, WIN",Telecom Carriers,Telecommunications Services,52,9
+"AEE, AEP, AES, AYE, CMS, CNP, D, DYN, ETR, FE, PEG, POM, PPL, SCG, SO, SRE, TE, WEC, XEL",MultiUtilities,Utilities,53,10
+"STR, TEG",Utility Networks,Utilities,54,10
+RX,NA,NA,NA,NA
